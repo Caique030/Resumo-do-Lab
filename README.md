@@ -6,3 +6,6 @@ tem garantias sobre falhas futuras.
 
 Microsoft Azure: Benefícios da Nuvem
 Aprendi sobre a importância de atender a diferentes necessidades em relação à empregabilidade e as opções disponíveis no Azure.Que remete a confiabilidade, empregabilidade, elasticidade e gerenciabilidade.
+
+Microsoft Azure: Níveis de Computação em Nuvem.
+Aprendi sobre as diferenças em computação em nuvem como por exemplo, infraestrutura como serviço(IaaS), plataforma como serviço(PaaS) e o software como serviço(SaaS).
