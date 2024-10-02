@@ -11,3 +11,5 @@ Microsoft Azure: Níveis de Computação em Nuvem.
 Aprendi sobre as diferenças em computação em nuvem como por exemplo, infraestrutura como serviço(IaaS), plataforma como serviço(PaaS) e o software como serviço(SaaS).
 
 Microsoft Azure: Criei um servidor na nuvem, e aprendemos diferentes tipos de serviços e configurações de servidores e vm's.
+
+Microsoft Azure: Aprendi as semelhanças do AD com o Azure e as novas possibilidades em relação a loguin de usuário e segurança.
