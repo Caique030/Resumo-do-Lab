@@ -13,3 +13,5 @@ Aprendi sobre as diferenças em computação em nuvem como por exemplo, infraest
 Microsoft Azure: Criei um servidor na nuvem, e aprendemos diferentes tipos de serviços e configurações de servidores e vm's.
 
 Microsoft Azure: Aprendi as semelhanças do AD com o Azure e as novas possibilidades em relação a loguin de usuário e segurança.
+
+Azure: Calcularora de custos, diferenças de valores e diferentes calculadoras e fatores que influênciam.
